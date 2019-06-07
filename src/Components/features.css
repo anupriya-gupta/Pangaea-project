@@ -1,0 +1,10 @@
+.features {
+    float: left;
+    margin-top: 2px;
+    margin-right: 5%;
+    width: 44%;
+}
+
+.feature {
+    padding-left: 5%;
+}

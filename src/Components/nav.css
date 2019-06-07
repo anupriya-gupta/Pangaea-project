@@ -1,0 +1,13 @@
+.navbar-default .navbar-brand {
+        color: #109fe6;
+        margin-left: 5%;
+    }
+.twitter {
+    float: left;
+    margin-left: -27%;
+    margin-top: 9%;
+}
+
+.container-fluid {
+    margin-left: 5%;
+}

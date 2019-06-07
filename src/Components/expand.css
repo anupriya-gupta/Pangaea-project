@@ -1,0 +1,39 @@
+.expand {
+  width: 25%;
+  margin-left: -7%;
+  padding-top: 8.5%;
+}
+
+.colour {
+  color: gray;
+}
+.thin {
+  margin-left: 70%;
+  margin-top: -16.5%;
+  padding: 1px 30px;
+  color: gray;
+}
+
+.newFeatures {
+    width: 250%;
+    margin-left: 56%;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+.first-div {
+  width: 29%;
+  margin-left: -11.5%;
+}
+
+.second-div {
+  width: 50%;
+  margin-top: -6%;
+  margin-left: 10%;
+}
+
+.third-div {
+  width: 100%;
+  margin-top: -5%;
+  margin-left: 40%;
+}

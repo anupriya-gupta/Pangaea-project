@@ -1,0 +1,48 @@
+.input {
+    width: 100%;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .submit {
+    width: 10%;
+    background-color: rgb(209, 32, 32);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .container {
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-block-end: 20px;
+    box-sizing: content-box;
+    height: auto;
+    min-height: 80px;
+    max-height: auto;
+  }
+
+  .characters {
+    margin-left: 80%;
+    padding-top: 1%;
+    color: gray;
+    font-family: monospace;
+  }
+
+  .text {
+    padding-top: 0%;
+  }

@@ -1,0 +1,19 @@
+.picture {
+    width: 19%;
+    height: 98px;
+    border-radius: 5px;
+    float: left;
+}
+ .container2 {
+     width: 100%;
+ }
+
+
+ .middle {
+     max-block-size: 20px;    
+ }
+
+ .bottom {
+   overflow: auto;
+   position: initial;
+ }
